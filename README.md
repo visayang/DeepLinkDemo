@@ -2,7 +2,7 @@
 Deeplink 测试，公网http链接到微信，引导用户默认浏览器打开，然后activity接受传值
 
 运行环境
-  tomcat 运行web页面
+  tomcat 运行web页面(只需要把项目里 html 文件夹 放到tomcat 目录 webapps\ROOT 下，然后启动tomcat。可以通过ip访问，也可以像我一样搞个花生壳（免费）映射到公网上)
   花生壳 映射到公网（不映射使用局域网IP地址 也可以的）
   Android Studio
   java
